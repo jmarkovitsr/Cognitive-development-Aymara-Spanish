@@ -1,0 +1,1 @@
+# Cognitive-development-Aymara-Spanish
