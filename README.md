@@ -1,2 +1,2 @@
 # Cognitive-development-Aymara-Spanish
-Linguistic background questionnaire, experimental design and R script
+Linguistic background questionnaire, and R script
